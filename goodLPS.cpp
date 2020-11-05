@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  goodLPS.cpp
 //  longestPalinSubstr
 //
 //  Created by Yichen Zhou on 11/5/20.
@@ -7,6 +7,8 @@
 //
 
 #include <iostream>
+#include <cassert>
+#include <string>
 using namespace std;
 
 string longestPalindrome(string s);
